@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Nahil Ahmed! :boy:
+#### I'm Nahil Ahmed! 
 
 🔭 I’m currently working on Data Science, DevOps, Python
 
