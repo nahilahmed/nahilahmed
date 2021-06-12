@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I'm Nahil Ahmed! :boy:
+
+🔭 I’m currently working on Data Science, DevOps, Python
+
+
 <!--
 **nahilahmed/nahilahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
