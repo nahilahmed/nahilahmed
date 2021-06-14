@@ -2,7 +2,20 @@
 
 #### I'm Nahil Ahmed! 
 
-🔭 I’m currently working on Data Science, DevOps, Python
+👨‍💻 I’m currently working as a <b>Data Engineer/Scientist</b> at <b>Tata Consultancy Services</b>.\
+🔭 I’m currently working on Data Science, DevOps, Python\
+🌱 I’m currently learning more about data\
+😄 Pronouns: He/His
+
+**Languages and Tools:**  
+
+<code><img height="30" src="Images/python.png"></code>
+<code><img height="30" src="Images/pandas.png"></code>
+<code><img height="30" src="Images/spark.png"></code>
+<code><img height="30" src="Images/numpy.png"></code>
+<code><img height="30" src="Images/seaborn.png"></code>
+
+
 
 
 <!--
