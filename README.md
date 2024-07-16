@@ -5,7 +5,6 @@
 👨‍💻 I’m currently working as a <b>Data Engineer/Scientist</b> at <b>Tata Consultancy Services</b>.\
 🔭 I’m currently working on Data Science, DevOps, Python\
 🌱 I’m currently learning more about data\
-😄 Pronouns: He/His
 
 **Languages and Tools:**  
 
