@@ -15,11 +15,13 @@ I design and build scalable data systems that deliver reliable, high-quality ins
 - **Dev:** Git, Azure DevOps, VS Code  
 - **Analytics:** Power BI, CTEs, Window Functions, Recursive SQL
 
-<code><img height="30" src="Images/python.png"></code>
-<code><img height="30" src="Images/spark.png"></code>
-<code><img height="30" src="Images/Databricks_Logo.png"></code>
-<code><img height="30" src="Images/airflow.png"></code>
-<code><img height="30" src="Images/pbi.png"></code>
+<p align="center">
+  <img src="Images/python.png" height="30">
+  <img src="Images/spark.png" height="30">
+  <img src="Images/Databricks_Logo.png" height="30">
+  <img src="Images/airflow.png" height="30">
+  <img src="Images/pbi.png" height="30">
+</p>
 
 ---
 
