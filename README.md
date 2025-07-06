@@ -15,7 +15,7 @@ I design and build scalable data systems that deliver reliable, high-quality ins
 - **Dev:** Git, Azure DevOps, VS Code  
 - **Analytics:** Power BI, CTEs, Window Functions, Recursive SQL
 
-<p align="center">
+<p>
   <img src="Images/python.png" style="height:30px; width:auto;">
   <img src="Images/spark.png" style="height:30px; width:auto;">
   <img src="Images/Databricks_Logo.png" style="height:30px; width:auto;">
