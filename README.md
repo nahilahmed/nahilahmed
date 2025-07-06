@@ -16,11 +16,11 @@ I design and build scalable data systems that deliver reliable, high-quality ins
 - **Analytics:** Power BI, CTEs, Window Functions, Recursive SQL
 
 <p align="center">
-  <img src="Images/python.png" height="30">
-  <img src="Images/spark.png" height="30">
-  <img src="Images/Databricks_Logo.png" height="30">
-  <img src="Images/airflow.png" height="30">
-  <img src="Images/pbi.png" height="30">
+  <img src="Images/python.png" style="height:30px; width:auto;">
+  <img src="Images/spark.png" style="height:30px; width:auto;">
+  <img src="Images/Databricks_Logo.png" style="height:30px; width:auto;">
+  <img src="Images/airflow.png" style="height:30px; width:auto;">
+  <img src="Images/pbi.png" style="height:30px; width:auto;">
 </p>
 
 ---
